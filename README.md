@@ -35,6 +35,6 @@ You can run all the examples from terminal. If you want to run from the IDE, fol
  project](https://www.jetbrains.com/idea/help/importing-project-from-maven-model.html).
 
 
-## 4. Up to date
+## 6. Up to date
 
 Please pull before coming to the session to get the latest code.
